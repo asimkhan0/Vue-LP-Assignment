@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "image": "/news_page/news_wic_2019.png",
+      "title":
+        "AAI Cooperates with CATARC for the World Intelligent Driving Challenge (WIDC) 2019",
+      "color": "white",
+      "date": "May, 2019",
+      "content":
+        "The World Intelligent Driving Challenge (WIDC) 2019 organized by our valued partner CATARC from May 15th to 17th in Tianjin uses a customized version of AAI ReplicaЯ for conducting their virtual driving contest with a replica of the Beijing-Tianjin highway. We are excited to see the performance of this year’s contestants!"
+    },
+    {
+      "id": 2,
+      "image": "/news_page/news_expo_2019.png",
+      "title":
+        "Meet us at the Autonomous Vehicle Technology Expo 2019 in Stuttgart",
+      "color": "tertiary",
+      "date": "May, 2019",
+      "content":
+        "We are happy to announce our participation at the Autonomous Vehicle Technology Expo 2019 in Stuttgart from May 21st to 23rd this year. You can find us at the stand number AV6035, you’re welcome to visit!"
+    },
+    {
+      "id": 3,
+      "image": "/news_page/news_automobil_industrie.png",
+      "title":
+        "Thinking out of the box - AAI featured in 'Automobil Industrie' magazine",
+      "color": "white",
+      "date": "February, 2019",
+      "content":
+        "A driving school for automated vehicles - the German magazine Automobil Industrie published a comprehensive introduction on our solution for testing and validation of automated driving functions. Read the full article here: <a target='_blank' href='http://www.automobil-industrie.vogel.de/start-up-aai-fahrschule-fuer-autos-a-795138/'>Start-up AAI: Fahrschule für Autos</a>."
+    },
+    {
+      "id": 4,
+      "image": "/news_page/news_conti.png",
+      "title": "Continental announces collaboration with AAI",
+      "color": "tertiary",
+      "date": "January, 2019",
+      "content":
+        "Collaboration with impact: Faster test procedures will bring automated driving on the road” – Continental and AAI are collaborating on the integration of virtual validation software into the development process for advanced driver assistance systems (ADAS) and automated driving (AD). Read the full article here: <a target='_blank' href='https://www.continental-corporation.com/en/press/press-releases/virtual-development-157198'>Press Release</a>."
+    },
+    {
+      "id": 5,
+      "image": "/news_page/news_ces2019.png",
+      "title": "AAI @ CES Las Vegas 2019",
+      "color": "white",
+      "date": "January, 2019",
+      "content": "Meet us at CES Las Vegas from Jan 8-11, 2019."
+    },
+    {
+      "id": 6,
+      "image": "/news_page/news_meetup.png",
+      "title":
+        "Optimization of Driving Simulation Performance — C++ Meetup at AAI Berlin Office",
+      "color": "tertiary",
+      "date": "November, 2018",
+      "content":
+        "At AAI, we are working on a solution to validate algorithms of autonomous vehicles in a virtual environment. Within our simulation, the car can drive for millions of miles in just a matter of days. This month's Meetup at our Berlin office challenged members of the local C++ community with questions about how to optimize the simulation engine while avoiding compromises on accuracy."
+    },
+    {
+      "id": 7,
+      "image": "/news_page/news_pitch_night.png",
+      "title": "AAI won the first price in Volkswagen Group Pitch Night",
+      "color": "white",
+      "date": "September, 2018",
+      "content":
+        "We won the first prize at the Volkswagen Group Pitch Night in Berlin, namely for the best product ideas, the maturity of the product, and business prospects!"
+    },
+    {
+      "id": 8,
+      "image": "/news_page/news_wic2019.png",
+      "title": "AAI at WIC China 2018",
+      "color": "tertiary",
+      "date": "May, 2018",
+      "content":
+        "Our simulation software is being used by WIC (http://www.wicongress.org) as virtual test software for the participants. The event has been kicked off today and we are very excited to see the winner by the weekend. Thanks to CATARC for believing and trusting in AAI. <br><a target='_blank' href='https://www.linkedin.com/pulse/aai-wic-intakhab-khan/'>Read More Here</a>"
+    },
+    {
+      "id": 9,
+      "image": "/news_page/news_civc.png",
+      "title":
+        "AAI software selected for China Intelligent Vehicle Competition",
+      "color": "white",
+      "date": "December, 2017",
+      "content":
+        "We have been selected to provide our simulation environment as test tool for the vehicles of all participants in the 2017 China Intelligent Vehicle Championship (“CIVC”), which is co-hosted by China Automotive Technology & Research Center (“CATARC”), China Association of Productivity Promotion Center (“CAPPC”) and Shanghai International Automobile City (Group) Co., Ltd., jointly undertaken by Auto Technical Information Research Institute of CATARC, National Automobile Industry Productivity Promotion Center and National Intelligent Connected Vehicle (Shanghai) Pilot Zone."
+    },
+    {
+      "id": 10,
+      "image": "/news_page/news_navinfo.png",
+      "title": "AAI selected as a showcase company for NAVINFO User Group",
+      "color": "tertiary",
+      "date": "November, 2017",
+      "content":
+        "Representing AAI which was selected as a Showcase Company for “2017 NAVINFO User Group” held in Beijing, China on 16 Nov 2017 and organized by NAVINFO, our founder Intakhab Khan participated in the panel discussion to explain how AAI’s solutions can resolve the problems identified in the area of autonomous driving."
+    },
+    {
+      "id": 11,
+      "image": "/news_page/news_gpu.png",
+      "title": "AAI nominated as one of the five hottest start-ups in Europe",
+      "color": "white",
+      "date": "October, 2017",
+      "content":
+        "AAI has been selected as one of the five of the hottest start-ups in Europe for GTC Europe Inception Awards held in Munich, Germany by Nvidia. <br> <a target='_blank' href='https://blogs.nvidia.com/blog/2017/10/11/inception-awards-highlight-european-tech-talent/' >Read More Here</a>"
+    },
+    {
+      "id": 12,
+      "image": "/news_page/news_audi_contract.png",
+      "title": "First contract with Audi Electronics Venture GmbH",
+      "color": "tertiary",
+      "date": "August, 2017",
+      "content":
+        "Start of cooperation between Audi Electronics Venture GmbH and AAI. Our AI-based traffic agents will be used for Audi's simulation model."
+    }
+  ]

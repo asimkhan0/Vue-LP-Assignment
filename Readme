@@ -1,0 +1,27 @@
+# LP Assignment
+
+
+### With Docker
+ 
+To make a docker image
+```docker build -t lp-assignment .```
+
+To run this
+```docker run -v ${PWD}:/app -v /app/node_modules -p 8080:8080 --rm lp-assignment```
+
+application would be running on port 8080 if not occupied by some other application.
+
+### Without Docker
+
+install dependencies
+```npm install```
+
+Run Project
+```npm run serve```
+
+---------------------
+You can also directly download the docker image from
+https://drive.google.com/file/d/1SeYdt98yEiVWlgOE0Sl70lVXtuF6lKxK/view?usp=sharing
+
+
+If confusion, contact at Khanasim034@gmail.com
